@@ -10,7 +10,7 @@ This guidebook includes the following key topics:
 
 ### 1. **Ensemble Learning: Bagging and Boosting Introduction**
 - Understanding ensemble learning concepts, including bagging (e.g., Random Forest) and boosting (e.g., Gradient Boosting).
-- Learn More: [Bagging and Boosting Explained](https://towardsdatascience.com/ensemble-learning-bagging-and-boosting-d80d8b1f82b9)
+- Learn More: [Bagging and Boosting Explained](https://www.analyticsvidhya.com/blog/2023/01/ensemble-learning-methods-bagging-boosting-and-stacking/)
 
 ### 2. **Random Forest Introduction**
 - Overview of the Random Forest algorithm, its advantages, and its applications in classification and regression.
